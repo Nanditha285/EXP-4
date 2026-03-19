@@ -40,14 +40,12 @@ CIRCUIT DIAGRAMS
 
 ![image](https://github.com/Nanditha285/EXP-4/blob/main/Screenshot%202026-03-19%20150549.png?raw=true)
 
-Half wave rectifier with filter:
+Half wave rectifier :
 
-Bridge rectifier with filter:
+![image](https://github.com/Nanditha285/EXP-4/blob/main/Screenshot%202026-03-19%20152108.png?raw=true)
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+Full wave rectifier :
+
 
 WAVEFORM:
 
