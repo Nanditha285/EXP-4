@@ -38,7 +38,7 @@ CIRCUIT DIAGRAMS
 
 ![image](https://github.com/Nanditha285/EXP-4/blob/main/Screenshot%202026-03-19%20150615.png?raw=true)
 
-
+![image](https://github.com/Nanditha285/EXP-4/blob/main/Screenshot%202026-03-19%20150549.png?raw=true)
 
 Half wave rectifier with filter:
 
