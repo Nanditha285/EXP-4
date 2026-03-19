@@ -50,6 +50,9 @@ Full wave rectifier :
 
 WAVEFORM:
 
+![image](https://github.com/Nanditha285/EXP-4/blob/main/Screenshot%202026-03-19%20151021.png?raw=true)
+
+
 
 RESULT:
 
