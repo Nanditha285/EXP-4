@@ -46,6 +46,7 @@ Half wave rectifier :
 
 Full wave rectifier :
 
+![image](https://github.com/Nanditha285/EXP-4/blob/main/Screenshot%202026-03-19%20152137.png?raw=true)
 
 WAVEFORM:
 
